@@ -39,10 +39,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG3} alt="" />
           </div>
-          <h3>Oldgram</h3>
+          <h3>BoredBot</h3>
           <div className='portfolio__item-cta'>
-          <a href = "https://github.com/EmmaBin/oldgram" className = 'btn' target='_blank'>Github</a>
-          <a href = "https://jovial-squirrel-99d690.netlify.app/" className = 'btn btn-primary' target='_blank'>Website</a>
+          <a href = "https://github.com/EmmaBin/boredbot-api" className = 'btn' target='_blank'>Github</a>
+          <a href = "https://deluxe-snickerdoodle-3e392b.netlify.app/" className = 'btn btn-primary' target='_blank'>Website</a>
           </div>
         </article>
 
