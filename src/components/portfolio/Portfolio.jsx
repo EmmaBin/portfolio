@@ -17,8 +17,8 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG4} alt="" />
-            <img src={IMG1} alt="" />
+            <img src={IMG4} alt="project-screenshot" />
+            <img src={IMG1} alt="project-screenshot" />
           </div>
           <h3>My Travelogue</h3>
           <div className='portfolio__item-cta'>
@@ -29,7 +29,7 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG2} alt="" />
+            <img src={IMG2} alt="project-screenshot" />
           </div>
           <h3>Restaurant Ordering App</h3>
           <div className='portfolio__item-cta'>
@@ -40,18 +40,18 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG3} alt="" />
+            <img src={IMG3} alt="project-screenshot" />
           </div>
-          <h3>BoredBot</h3>
+          <h3>Movie Watchlist App</h3>
           <div className='portfolio__item-cta'>
-          <a href = "https://github.com/EmmaBin/boredbot-api" className = 'btn' target='_blank'>Github</a>
-          <a href = "https://deluxe-snickerdoodle-3e392b.netlify.app/" className = 'btn btn-primary' target='_blank'>Website</a>
+          <a href = "https://github.com/EmmaBin/movie-watchlist" className = 'btn' target='_blank'>Github</a>
+          <a href = "https://jazzy-sawine-5d9be6.netlify.app/" className = 'btn btn-primary' target='_blank'>Website</a>
           </div>
         </article>
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG5} alt="" />
+            <img src={IMG5} alt="project-screenshot" />
           </div>
           <h3>Color Scheme Generator</h3>
           <div className='portfolio__item-cta'>
@@ -62,7 +62,7 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG6} alt="" />
+            <img src={IMG6} alt="project-screenshot" />
           </div>
           <h3>Meme Generator in React</h3>
           <div className='portfolio__item-cta'>
@@ -73,12 +73,12 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG7} alt="" />
+            <img src={IMG7} alt="project-screenshot" />
           </div>
           <h3>Quiz in React</h3>
           <div className='portfolio__item-cta'>
           <a href = "https://github.com/EmmaBin/quiz-react" className = 'btn' target='_blank'>Github</a>
-          <a href = "https://lambent-starlight-872cbf.netlify.app/" className = 'btn btn-primary' target='_blank'>Website</a>
+          <a href = "https://endearing-peony-63758b.netlify.app/" className = 'btn btn-primary' target='_blank'>Website</a>
           </div>
         </article>
        
